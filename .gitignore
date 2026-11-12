@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PLIP outputs or temporary files
+*_PLIP/
+*.log
+.DS_Store
